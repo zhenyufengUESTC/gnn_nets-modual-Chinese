@@ -1,1 +1,3 @@
-# gnn_nets-modual-Chinese
+# graph_nets-modual-Chinese
+
+Graph networks library: 
